@@ -4,5 +4,5 @@ Testing dataset link: https://infyspringboard.onwingspan.com/common-content-stor
 
 where each dataset contains an excel file and folder of images.
 
-Excel contains image and id which is our target.
+Excel contains id and class which is our target.
 ![image](https://github.com/user-attachments/assets/1e219b43-c4d3-4ede-bf64-7dea067188b8)
